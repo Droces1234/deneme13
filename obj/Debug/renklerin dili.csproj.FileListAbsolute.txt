@@ -1,0 +1,11 @@
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\bin\Debug\renklerin dili.exe.config
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\bin\Debug\renklerin dili.exe
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\bin\Debug\renklerin dili.pdb
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\obj\Debug\renklerin_dili.Form1.resources
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\obj\Debug\renklerin_dili.Properties.Resources.resources
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\obj\Debug\renklerin dili.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\obj\Debug\renklerin dili.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\obj\Debug\renklerin dili.exe
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\obj\Debug\renklerin dili.pdb
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\obj\Debug\renklerin_dili.Form2.resources
+C:\Users\Windows10\source\repos\renklerin dili\renklerin dili\obj\Debug\renklerin dili.csprojAssemblyReference.cache
